@@ -1,0 +1,23 @@
+Go for Pythonists
+========================
+
+This is a presentation that was given on March 7, 2012.
+
+
+
+In order to properly diff this repository, you should add the following to `~.gitconfig`:
+
+````
+[diff "odf"]
+    textconv=odt2txt
+````
+
+and the following to `$GIT_DIR/info/attributes`:
+
+````
+*.ods diff=odf
+*.odt diff=odf
+*.odp diff=odf
+````
+
+(If you don't have odt2txt, you will need to install it.)
