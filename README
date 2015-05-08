@@ -9,7 +9,7 @@ The presentation is stored in an odp file, which should be compatible with Libre
 PDF
 ---------------
 
-A PDF version is hosted at Golang Weekly: http://golangweekly.com/files/go_for_pythonistas.pdf . (Note that this version may differ from the current state of this repository).
+A PDF version is hosted at Golang Weekly: http://s3.amazonaws.com/golangweekly/go_for_pythonistas.pdf . (Note that this version may differ from the current state of this repository).
 
 Modifications
 --------------
